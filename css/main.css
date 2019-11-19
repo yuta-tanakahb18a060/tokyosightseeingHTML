@@ -6,7 +6,7 @@ body {
     padding: 10px;
     margin-bottom: 100px;
 }
-
+		div { background: #aad6f5; font-size:30px; color: white;}
 h1 {
     position: relative;
     padding: 0.6em;
